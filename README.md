@@ -50,14 +50,6 @@ https://airesume-hamza.netlify.app/
 Repository Link:
 https://github.com/hamza03443028192-svg/Ai-resume-
 
-## Screenshots
-
-### Home Page
-(Add screenshot here)
-
-### Resume Generator
-(Add screenshot here)
-
 ## Author
 
 Muhammad Hamza
