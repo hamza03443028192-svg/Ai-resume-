@@ -22,7 +22,7 @@ AI Resume Builder is a simple web application that helps users create profession
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+https://github.com/hamza03443028192-svg/Ai-resume-.git
 ```
 
 2. Open the project folder.
@@ -43,12 +43,12 @@ AI-Resume-Builder/
 ## Live Demo
 
 Netlify Link:
-https://YOUR-NETLIFY-LINK.netlify.app
+https://airesume-hamza.netlify.app/
 
 ## GitHub Repository
 
 Repository Link:
-https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
+https://github.com/hamza03443028192-svg/Ai-resume-
 
 ## Screenshots
 
